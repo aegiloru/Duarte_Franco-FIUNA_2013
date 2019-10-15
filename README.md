@@ -1,5 +1,5 @@
 # Duarte_Franco-FIUNA_2013
-Tesis de Grado a Ingeniería Electrónica  - Asunción - 2017
+Tesis de Grado a Ingeniería Electrónica  - Asunción - 2013
 
 <b>Title:</b></br>
 Plataforma Robótica Móvil de Bajo Costo como Medio de Inclusión Tecnológica en la Sociedad Escolar
